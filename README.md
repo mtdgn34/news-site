@@ -11,3 +11,8 @@ Bu proje, HTML ve CSS kullanılarak oluşturulmuş, genel haberleri sunan basit 
 - **HTML5**
 - **CSS3**
 - (İsteğe bağlı: Responsive tasarım için medya sorguları)
+- 
+📷 Ekran Görüntüsü
+
+![news-site](https://github.com/user-attachments/assets/3df27355-2d0b-4455-a8b7-69fb9cebf8dc)
+https://mtdgn34.github.io/news-site/
